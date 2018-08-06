@@ -1,0 +1,18 @@
+p{
+	color: red;
+	font-size: 
+}/*标签选择器*/
+.blue{
+	color: blue;<!--颜色-->
+	font-size: 21px<!--字体大小-->
+}
+.purple{
+	color: purple
+}
+.ziti{
+	font-size: 32px
+}/*类选择器*/
+#black{
+	color: pink;
+	font-size: 11px
+}/*ID选择器*/
